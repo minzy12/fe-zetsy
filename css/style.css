@@ -18,3 +18,17 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.press-container {
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+}
+
+#necklace-img {
+	border: solid black 2px;
+}
+
+footer {
+	text-align: right;
+} 
